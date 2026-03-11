@@ -1,7 +1,7 @@
-Freelancer Jekyll theme  
+Makenzie Wilson cyber data analysis-portfolio Jekyll theme  
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Jekyll theme based on [Cyber Data analysis bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## How to use
  - Place a image in `/img/portfolio/`
