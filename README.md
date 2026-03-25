@@ -1,7 +1,9 @@
-Makenzie Wilson cyber data analysis-portfolio Jekyll theme  
+Makenzie Wilson cyber data analysis-portfolio minima theme  
 =========================
 
-Jekyll theme based on [Cyber Data analysis bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+minima theme based on [Cyber Data analysis bootstrap theme ]([InternetShortcut]
+URL=https://builder.startbootstrap.com/builder/freelancer
+)
 
 ## How to use
  - Place a image in `/img/portfolio/`
@@ -23,7 +25,9 @@ description: The description of the project
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+View this jekyll theme in action [here][InternetShortcut]
+URL=https://builder.startbootstrap.com/builder/freelancer
+
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
