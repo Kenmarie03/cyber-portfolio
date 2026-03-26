@@ -30,7 +30,6 @@ URL=https://builder.startbootstrap.com/builder/freelancer
 
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
+file:///C:/Users/kenzi/Downloads/screenshot-1774554587540.png
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
